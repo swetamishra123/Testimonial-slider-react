@@ -14,17 +14,19 @@ This project demonstrates how to create a testimonial slider component using Rea
 
 1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/your-username/testimonial-slider-react.git
-   cd testimonial-slider-react
+      ``` bash
+      git clone https://github.com/your-username/testimonial-slider-react.git
+      cd testimonial-slider-react
+      
+2. Install project dependencies:
 
-## How to run the app
- Install project dependencies:  
-   npm install
- Start the development server: 
-   npm start
- Open your browser and visit below address to see the testimonial slider in action.
-   http://localhost:3000
+     ```bash
+     npm install
+3. Start the development server:
+
+   ```bash
+    npm start
+4. Open your browser and visit 'http://localhost:3000' to see the testimonial slider in action.
 
 ## Configuration
 You can configure the testimonial slider by modifying the component's code. You may want to add options like autoplay, navigation buttons, or custom styles based on your project requirements.
