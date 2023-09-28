@@ -19,11 +19,11 @@ This project demonstrates how to create a testimonial slider component using Rea
    cd testimonial-slider-react
 
 ## How to run the app
-# Install project dependencies:  
+ Install project dependencies:  
    npm install
-# Start the development server: 
+ Start the development server: 
    npm start
-# Open your browser and visit below address to see the testimonial slider in action.
+ Open your browser and visit below address to see the testimonial slider in action.
    http://localhost:3000
 
 ## Configuration
