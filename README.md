@@ -15,8 +15,8 @@ This project demonstrates how to create a testimonial slider component using Rea
 1. Clone the repository to your local machine:
 
       ``` bash
-      git clone https://github.com/your-username/testimonial-slider-react.git
-      cd testimonial-slider-react
+      git clone https://github.com/swetamishra123/Testimonial-slider-react.git
+      cd Testimonial-slider-react
       
 2. Install project dependencies:
 
