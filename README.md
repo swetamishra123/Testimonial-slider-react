@@ -38,4 +38,4 @@ Customize the testimonial slider's appearance and behavior by editing the compon
 Contributions are welcome! If you'd like to contribute to this project.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the 'MIT License'.
